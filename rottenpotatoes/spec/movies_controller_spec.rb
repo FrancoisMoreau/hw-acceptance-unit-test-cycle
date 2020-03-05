@@ -1,4 +1,4 @@
-irequire 'rails_helper'
+require 'rails_helper'
 
  describe MoviesController, type: :controller do
 
